@@ -1,1 +1,3 @@
 # simpletest
+
+Test av pages
